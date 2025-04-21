@@ -4,7 +4,15 @@ module.exports = {
     "./public/index.html",],
     darkMode:'class',
   theme: {
-    extend: {},
+    extend: {
+
+      screens: 
+      {
+        "other": {'min': '340px', 'max': ' 1200px'},
+      },
+     
+
+    }
   },
   plugins: [],
 }
