@@ -11,7 +11,7 @@ export const Footer = () => {
               to="https://dustinforsyth.netlify.app/"
               className="hover:underline"
             >
-              Cinemate™
+              Dusty Watch™
             </Link>
             . All Rights Reserved.
           </span>
