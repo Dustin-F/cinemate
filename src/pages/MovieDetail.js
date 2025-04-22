@@ -19,7 +19,7 @@ useEffect(()=> {
     
   }
   fetchMovie();
-}, []);
+}, [params.id]);
 
 
 
